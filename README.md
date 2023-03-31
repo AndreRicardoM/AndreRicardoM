@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente Desempregado
 - 🌱 Estudando HTML e CSS
-- 😄 Pronouns: Ele/dela
 
 <div>
 <a href="https://github.com/AndreRicardoM">
@@ -17,7 +16,8 @@
     <br>
     <a href="https://www.linkedin.com/in/André-Ricardo-Mãnica-Martins/">
     <img align="center" alt="LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    <a href="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
-    <img align="center" alt="Instagram" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original-wordmark.svg" /></a>
+    <a href="https://www.instagram.com/Andre_manica_m/">
+    <img align="center" alt="Instagram" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" /></a>
 </div>
+
 
