@@ -1,7 +1,7 @@
 ### Opa! Eu sou André Ricardo👋
 
 - 🔭 Atualmente Desempregado
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML,CSS e JavaScript
 
 <div>
 <a href="https://github.com/AndreRicardoM">
